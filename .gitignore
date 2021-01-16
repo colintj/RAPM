@@ -1,0 +1,17 @@
+global.R
+possession_sparse.R
+scratch.R
+table_query.R
+team_rapm.R
+RAPM_2013-20.csv
+/rsconnect
+server.R
+ui.R
+Writeup.html
+WRiteup.md
+/Writeup
+RAPM_2013-21.csv
+.Renviron
+.Rhistory
+.DS_Store
+.Rproj.user
